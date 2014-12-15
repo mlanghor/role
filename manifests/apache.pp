@@ -1,3 +1,3 @@
 class role::apache {
-  include role::apache::testing
+  include profile::apache::testing
 }
